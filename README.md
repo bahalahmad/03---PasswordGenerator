@@ -3,7 +3,7 @@
 <br />
 <p align="center">
 
-  <h1 align="center">my-portfolio-website</h1>
+  <h1 align="center">PASSWORD GENERATOR   </h1>
 
   <p align="center">
     Disguise you as a website
@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-my-portfolio-website is a project based on `HTML,CSS,JAVASCRIPT` which describes about myself. It mainly includes about myself, projects I had done, skills I posses and blogs I had written. 
+this website is a project based on `HTML,CSS,JAVASCRIPT` which generate random password according to user requirement and check the strength of password
 
 
 ### Built With
